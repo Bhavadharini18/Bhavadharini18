@@ -58,9 +58,3 @@ A machine learning-based resume screening tool that automatically shortlists can
 - CodeChef Contest Participation (Div 4)  
 - Hackathons Attended — 2
 
----
-
-## 🚀 How to Use
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
