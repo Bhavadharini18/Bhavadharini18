@@ -1,60 +1,63 @@
-# 👩‍💻 Bhavadharini S — AI & Data Science Portfolio
+<h1 align="center">👩‍💻 Bhavadharini S</h1>
+<h3 align="center">AI & Data Science Student | Machine Learning Enthusiast 🚀</h3>
 
-Welcome to my GitHub portfolio!  
-I am an Artificial Intelligence & Data Science student passionate about building intelligent systems and solving real-world problems using data and machine learning.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;Machine+Learning+Developer;Fast+Learner+%7C+Problem+Solver;Passionate+About+Real-World+AI" />
+</p>
 
 ---
 
-## 🧑‍🎓 About Me
+## 🌟 About Me
+
+🎓 B.Tech Artificial Intelligence & Data Science student at **KIT, Coimbatore**  
+💡 Passionate about building intelligent systems and solving real-world problems using data  
+⚡ Fast learner | Curious | Consistent | Creative  
 
 - **Name:** Bhavadharini S  
-- **Degree:** B.Tech in Artificial Intelligence & Data Science  
-- **College:** Kalaignarkarunanidhi Institute of Technology (KIT), Coimbatore  
 - **CGPA:** 8.50 / 10  
 - **Email:** kit27.ad07@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/bhavadharini-s-b18146357  
 
-Fast learner with strong problem-solving skills and a keen interest in emerging technologies and real-world applications.
-
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
-- **Languages:** Python, C, Java (Basics)  
-- **Databases:** SQL, MySQL  
-- **Core Areas:** Data Structures, Machine Learning, Data Science, Data Preprocessing, Model Evaluation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,javascript,mysql,git,github,linux,pandas,numpy,sklearn,tensorflow,flask,vscode" />
+</p>
 
 ---
 
 ## 📁 Projects
 
-### 📌 Predict Student Performance
-A machine learning project that predicts student academic performance using academic and behavioral data to help educators take proactive actions.
+### 📌 Predict Student Performance 🎯
+Machine learning model that predicts student academic performance using academic and behavioral data to help educators take proactive actions.
 
-**Technologies:** Python, Machine Learning, Data Analysis
+**Tech Used:** Python, Pandas, Scikit-Learn
 
 ---
 
-### 📌 Resume Shortlister
-A machine learning-based resume screening tool that automatically shortlists candidates by matching skills with job requirements.
+### 📌 Resume Shortlister 🧾
+Automated resume screening system using machine learning and NLP to shortlist candidates based on job requirements.
 
-**Technologies:** Python, NLP, Machine Learning
+**Tech Used:** Python, NLP, Machine Learning
 
 ---
 
 ## 💼 Experience
 
 ### AI & ML Intern — Codebind Technologies, Coimbatore
-- Worked on real-time ML projects  
-- Performed data preprocessing, model training, and evaluation  
-- Implemented machine learning algorithms using Python
+- Worked on real-time machine learning projects  
+- Performed data preprocessing, training, testing, and evaluation  
+- Implemented ML models using Python  
 
 ---
 
-## 📜 Certifications & Achievements
+## 🏆 Certifications & Achievements
 
-- NPTEL — Soft Skill Development (Jan–Mar 2024)  
-- Infosys Springboard — Basics of Python, Python Foundation  
-- CodeChef Contest Participation (Div 4)  
-- Hackathons Attended — 2
+- 🥇 NPTEL — Soft Skill Development (8 weeks)  
+- 🐍 Infosys Springboard — Basics of Python, Python Foundation  
+- 🧠 CodeChef Contest Participation (Div 4)  
+- 🤝 Hackathons Attended — 2  
 
+---
